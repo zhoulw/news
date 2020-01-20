@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="032c064c-2a44-4018-a593-7af43fa2f87f" name="zlw" url="http://192.168.137.129">
+        <fileTransfer host="192.168.137.129" port="22" rootFolder="/home/zlw/www/web/developNews" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
